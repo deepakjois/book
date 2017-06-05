@@ -41,7 +41,7 @@ The source files from which this book is generated can be found on
 There are two editions of "The Rust Programming Language", this being the
 first edition.
 
-The [second edition][second-edition] is a complete re-write. It is still under
+The [second edition][../second-edition] is a complete re-write. It is still under
 construction, though it is far enough along to learn most of Rust. We suggest
 reading the second edition and then checking out the first edition later to pick
 up some of the more esoteric parts of the language.
